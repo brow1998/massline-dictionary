@@ -11,7 +11,7 @@ Este repositório contém um crawler para o site [massline.org](https://massline
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/massline-dictionary.git
+   git clone https://github.com/brow1998/massline-dictionary.git
    cd massline-dictionary
    ```
 
